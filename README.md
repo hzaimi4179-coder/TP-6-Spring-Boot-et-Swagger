@@ -20,6 +20,7 @@ Test de la suppression d’un étudiant (DELETE):
 
 <img width="959" height="325" alt="Screenshot 2025-10-27 000123" src="https://github.com/user-attachments/assets/19da6978-bcb0-4686-b030-15913da40775" />
 
+Base de donnees apres la suppression : 
 <img width="500" height="233" alt="Screenshot 2025-10-27 000156" src="https://github.com/user-attachments/assets/8e96fc08-62ea-4a20-9fe6-5ff2f55222dd" />
 
 <img width="959" height="349" alt="Screenshot 2025-10-27 000240" src="https://github.com/user-attachments/assets/db4711ed-1754-44b5-a2c1-6ad6c3e585ec" />
