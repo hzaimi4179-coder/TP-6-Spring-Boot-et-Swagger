@@ -12,6 +12,8 @@ Resultat dans la base de donnees :
 
 <img width="613" height="256" alt="Screenshot 2025-10-26 235810" src="https://github.com/user-attachments/assets/06cf887b-761d-45d3-8013-1e773cbdc7d3" />
 
+Test de la récupération de tous les étudiants (GET): 
+
 <img width="959" height="472" alt="Screenshot 2025-10-27 000002" src="https://github.com/user-attachments/assets/11603eab-070c-4830-8c44-8185c01b1269" />
 
 <img width="959" height="325" alt="Screenshot 2025-10-27 000123" src="https://github.com/user-attachments/assets/19da6978-bcb0-4686-b030-15913da40775" />
