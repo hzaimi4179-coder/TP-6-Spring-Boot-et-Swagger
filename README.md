@@ -9,6 +9,7 @@ Test de l’ajout d’un étudiant (POST):
 <img width="956" height="424" alt="Screenshot 2025-10-26 235725" src="https://github.com/user-attachments/assets/2a1e8674-983e-48e1-86fa-f3b10dfd1ae5" />
 
 Resultat dans la base de donnees : 
+
 <img width="613" height="256" alt="Screenshot 2025-10-26 235810" src="https://github.com/user-attachments/assets/06cf887b-761d-45d3-8013-1e773cbdc7d3" />
 
 <img width="959" height="472" alt="Screenshot 2025-10-27 000002" src="https://github.com/user-attachments/assets/11603eab-070c-4830-8c44-8185c01b1269" />
