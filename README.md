@@ -32,6 +32,10 @@ Base de donnees apres la suppression :
 
 <img width="959" height="389" alt="Screenshot 2025-10-27 000401" src="https://github.com/user-attachments/assets/375cd14e-223e-4fd2-b792-51fdd96b9288" />
 
-
+Résultats des tests unitaires : 
 
 <img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/1abe38b3-6e45-47fa-baae-f59e7b6e5db2" />
+
+ Intégration de Swagger : 
+ 
+<img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/18efe50a-55dd-46dd-9138-3b0faefbe329" />
