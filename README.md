@@ -16,6 +16,8 @@ Test de la récupération de tous les étudiants (GET):
 
 <img width="959" height="472" alt="Screenshot 2025-10-27 000002" src="https://github.com/user-attachments/assets/11603eab-070c-4830-8c44-8185c01b1269" />
 
+Test de la suppression d’un étudiant (DELETE):
+
 <img width="959" height="325" alt="Screenshot 2025-10-27 000123" src="https://github.com/user-attachments/assets/19da6978-bcb0-4686-b030-15913da40775" />
 
 <img width="500" height="233" alt="Screenshot 2025-10-27 000156" src="https://github.com/user-attachments/assets/8e96fc08-62ea-4a20-9fe6-5ff2f55222dd" />
