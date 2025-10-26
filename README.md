@@ -4,6 +4,7 @@ Tp 6 :
 
 <img width="625" height="339" alt="Screenshot 2025-10-26 230741" src="https://github.com/user-attachments/assets/9387654c-448a-481f-8f5f-6fda5a5268ad" />
 
+Test de l’ajout d’un étudiant (POST): 
 <img width="956" height="424" alt="Screenshot 2025-10-26 235725" src="https://github.com/user-attachments/assets/2a1e8674-983e-48e1-86fa-f3b10dfd1ae5" />
 
 <img width="613" height="256" alt="Screenshot 2025-10-26 235810" src="https://github.com/user-attachments/assets/06cf887b-761d-45d3-8013-1e773cbdc7d3" />
