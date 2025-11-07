@@ -1,41 +1,46 @@
-Tp 6 : 
+# Tp 6 : 
+
+## Structure : 
 
 <img width="959" height="434" alt="Screenshot 2025-10-26 225425" src="https://github.com/user-attachments/assets/5400cf4a-0051-487d-b76a-06c97a02ce42" />
 
+## 
+
 <img width="625" height="339" alt="Screenshot 2025-10-26 230741" src="https://github.com/user-attachments/assets/9387654c-448a-481f-8f5f-6fda5a5268ad" />
 
-Test de l’ajout d’un étudiant : 
+
+## Test de l’ajout d’un étudiant : 
 
 <img width="956" height="424" alt="Screenshot 2025-10-26 235725" src="https://github.com/user-attachments/assets/2a1e8674-983e-48e1-86fa-f3b10dfd1ae5" />
 
-Resultat dans la base de donnees : 
+##  Resultat dans la base de donnees : 
 
 <img width="613" height="256" alt="Screenshot 2025-10-26 235810" src="https://github.com/user-attachments/assets/06cf887b-761d-45d3-8013-1e773cbdc7d3" />
 
-Test de la récupération de tous les étudiants : 
+##  Test de la récupération de tous les étudiants : 
 
 <img width="959" height="472" alt="Screenshot 2025-10-27 000002" src="https://github.com/user-attachments/assets/11603eab-070c-4830-8c44-8185c01b1269" />
 
-Test de la suppression d’un étudiant :
+##  Test de la suppression d’un étudiant :
 
 <img width="959" height="325" alt="Screenshot 2025-10-27 000123" src="https://github.com/user-attachments/assets/19da6978-bcb0-4686-b030-15913da40775" />
 
-Base de donnees apres la suppression : 
+##  Base de donnees apres la suppression : 
 
 <img width="500" height="233" alt="Screenshot 2025-10-27 000156" src="https://github.com/user-attachments/assets/8e96fc08-62ea-4a20-9fe6-5ff2f55222dd" />
 
- Test du comptage des étudiants :
+##  Test du comptage des étudiants :
 
 <img width="959" height="349" alt="Screenshot 2025-10-27 000240" src="https://github.com/user-attachments/assets/db4711ed-1754-44b5-a2c1-6ad6c3e585ec" />
 
- Test du nombre d’étudiants par année de naissance : 
+##  Test du nombre d’étudiants par année de naissance : 
 
 <img width="959" height="389" alt="Screenshot 2025-10-27 000401" src="https://github.com/user-attachments/assets/375cd14e-223e-4fd2-b792-51fdd96b9288" />
 
-Résultats des tests unitaires : 
+##  Résultats des tests unitaires : 
 
 <img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/1abe38b3-6e45-47fa-baae-f59e7b6e5db2" />
 
- Intégration de Swagger : 
+ ##  Intégration de Swagger : 
  
 <img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/18efe50a-55dd-46dd-9138-3b0faefbe329" />
