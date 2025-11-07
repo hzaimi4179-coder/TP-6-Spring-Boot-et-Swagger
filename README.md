@@ -1,6 +1,5 @@
 # Tp 6 : 
 
-## 
 
 <img width="959" height="434" alt="Screenshot 2025-10-26 225425" src="https://github.com/user-attachments/assets/5400cf4a-0051-487d-b76a-06c97a02ce42" />
 
