@@ -1,6 +1,6 @@
 # Tp 6 : 
 
-## Structure : 
+## 
 
 <img width="959" height="434" alt="Screenshot 2025-10-26 225425" src="https://github.com/user-attachments/assets/5400cf4a-0051-487d-b76a-06c97a02ce42" />
 
@@ -41,6 +41,3 @@
 
 <img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/1abe38b3-6e45-47fa-baae-f59e7b6e5db2" />
 
- ##  Intégration de Swagger : 
- 
-<img width="622" height="354" alt="Screenshot 2025-10-27 000557" src="https://github.com/user-attachments/assets/18efe50a-55dd-46dd-9138-3b0faefbe329" />
